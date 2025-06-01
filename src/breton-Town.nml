@@ -9,6 +9,7 @@ grf {
 town_names(breton_town_name) {
     {
         text("Rennes", 50),
+        text("Kerfago", 50),
         text("Brest", 34),
         text("Quimper", 15),
         text("Lorient", 14),
