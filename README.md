@@ -1,3 +1,6 @@
-Breton Town
+# Brittany-Town
 
-This newGRF features the 300 most populated towns of Brittany.
+This NewGRF features the 300 most populated town in Brittany in France
+
+Example :
+![Example](images/Exemple.png)
